@@ -1,1 +1,1 @@
-<img src="https://api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#55186f&height=1208&section=header" />
