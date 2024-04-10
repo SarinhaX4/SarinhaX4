@@ -7,7 +7,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarinhax4&theme=violet-light&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarinhax4&theme=shadow-purple&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
 </div>
 
@@ -15,6 +15,8 @@
 
 <div align="center" >
    
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/sarinhax4?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/sarinhax4?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=#55186f) 
 
 </div>
+
+https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=fall&animation_duration=2&animation_delay=0.005&weeks=30&theme=purple
